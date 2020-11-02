@@ -1,5 +1,7 @@
+h3 {
+    text-align: center;    
+}
 .movies {
     color:orchid;
-    text-align: center;
     font-size: large;
 }
