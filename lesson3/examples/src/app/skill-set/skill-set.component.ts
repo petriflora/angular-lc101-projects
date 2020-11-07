@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { AnimationFrameScheduler } from 'rxjs/internal/scheduler/AnimationFrameScheduler';
 
 @Component({
    selector: 'skill-set',
